@@ -31,12 +31,5 @@ Contributions to this project are welcome. Feel free to submit bug reports, feat
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Screenshot
-
-<p align="center">
-  <img src="assets/screenshot.png" alt="Project Picture" width="1000">
-</p>
-
----
 
 
