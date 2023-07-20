@@ -5,6 +5,8 @@ As I prepare to move to the USA from India, I realized that gyms in the USA typi
 
 The app allows users to enter their weight in pounds, and it instantly converts it to kilograms, providing a seamless way to understand and communicate weight measurements in different units.
 
+## App Screenshot
+![Weight Converter App Screenshot](screenshot.png)
 ## Features
 - Simple and user-friendly interface.
 - Instantly converts weight from pounds to kilograms.
