@@ -20,11 +20,6 @@ The app allows users to enter their weight in pounds, and it instantly converts 
 5. Enter your weight in pounds in the provided text field.
 6. The app will automatically display your weight converted to kilograms.
 
-## Dependencies
-- Flutter SDK: Version X.X.X
-- Dart: Version X.X.X
-- Other dependencies can be found in the `pubspec.yaml` file.
-
 ## Contributions
 Contributions to this project are welcome. Feel free to submit bug reports, feature requests, or pull requests.
 
